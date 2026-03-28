@@ -1,0 +1,12 @@
+{
+  "rank": 100,
+  "spanish": "ciudad",
+  "english": "city",
+  "pronunciation": "syoo-DAHD",
+  "partOfSpeech": "noun",
+  "gender": "feminine",
+  "exampleEs": "Madrid es una ciudad hermosa.",
+  "exampleEn": "Madrid is a beautiful city.",
+  "group": "core-100",
+  "topic": "travel"
+}

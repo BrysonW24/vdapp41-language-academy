@@ -1,0 +1,12 @@
+{
+  "rank": 99,
+  "spanish": "agua",
+  "english": "water",
+  "pronunciation": "AH-gwah",
+  "partOfSpeech": "noun",
+  "gender": "feminine",
+  "exampleEs": "¿Me das un vaso de agua?",
+  "exampleEn": "Can you give me a glass of water?",
+  "group": "core-100",
+  "topic": "food"
+}
