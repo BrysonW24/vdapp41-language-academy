@@ -1,0 +1,12 @@
+{
+  "rank": 65,
+  "german": "diese",
+  "english": "this, these",
+  "pronunciation": "DEE-zuh",
+  "partOfSpeech": "pronoun",
+  "gender": "feminine",
+  "exampleDe": "Diese Blume ist schön.",
+  "exampleEn": "This flower is beautiful.",
+  "group": "core-100",
+  "topic": "basics"
+}

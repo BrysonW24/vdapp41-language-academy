@@ -1,0 +1,12 @@
+{
+  "rank": 79,
+  "german": "denn",
+  "english": "because, then (particle)",
+  "pronunciation": "dehn",
+  "partOfSpeech": "conjunction",
+  "gender": "n/a",
+  "exampleDe": "Ich bleibe, denn es regnet.",
+  "exampleEn": "I stay, because it is raining.",
+  "group": "core-100",
+  "topic": "basics"
+}

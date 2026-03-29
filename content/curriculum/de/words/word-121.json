@@ -1,0 +1,13 @@
+{
+  "rank": 121,
+  "german": "Geld",
+  "english": "money",
+  "pronunciation": "gelt",
+  "partOfSpeech": "noun",
+  "gender": "neuter",
+  "article": "das",
+  "exampleDe": "Ich habe nicht genug Geld.",
+  "exampleEn": "I don't have enough money.",
+  "group": "core-100",
+  "topic": "shopping"
+}

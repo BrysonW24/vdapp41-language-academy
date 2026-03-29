@@ -1,0 +1,13 @@
+{
+  "rank": 80,
+  "chinese": "五",
+  "characters": "五",
+  "pinyin": "wǔ",
+  "english": "five",
+  "pronunciation": "woo (3rd tone, dipping)",
+  "partOfSpeech": "number",
+  "exampleZh": "五点了。",
+  "exampleEn": "It's five o'clock.",
+  "group": "core-100",
+  "topic": "numbers"
+}

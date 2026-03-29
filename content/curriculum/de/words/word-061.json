@@ -1,0 +1,12 @@
+{
+  "rank": 61,
+  "german": "mein",
+  "english": "my",
+  "pronunciation": "myne",
+  "partOfSpeech": "pronoun",
+  "gender": "masculine",
+  "exampleDe": "Mein Name ist Hans.",
+  "exampleEn": "My name is Hans.",
+  "group": "core-100",
+  "topic": "people"
+}

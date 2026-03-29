@@ -1,0 +1,13 @@
+{
+  "rank": 111,
+  "chinese": "点",
+  "characters": "点",
+  "pinyin": "diǎn",
+  "english": "o'clock, dot, point; a little",
+  "pronunciation": "dee-en (3rd tone, dipping)",
+  "partOfSpeech": "noun",
+  "exampleZh": "现在三点了。",
+  "exampleEn": "It's three o'clock now.",
+  "group": "core-100",
+  "topic": "time"
+}

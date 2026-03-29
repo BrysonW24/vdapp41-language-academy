@@ -1,0 +1,13 @@
+{
+  "rank": 115,
+  "german": "Kind",
+  "english": "child",
+  "pronunciation": "kint",
+  "partOfSpeech": "noun",
+  "gender": "neuter",
+  "article": "das",
+  "exampleDe": "Das Kind lernt schnell.",
+  "exampleEn": "The child learns quickly.",
+  "group": "core-100",
+  "topic": "people"
+}

@@ -1,0 +1,12 @@
+{
+  "rank": 90,
+  "german": "stehen",
+  "english": "to stand",
+  "pronunciation": "SHTAY-en",
+  "partOfSpeech": "verb",
+  "gender": "n/a",
+  "exampleDe": "Er steht an der Haltestelle.",
+  "exampleEn": "He stands at the bus stop.",
+  "group": "core-100",
+  "topic": "actions"
+}

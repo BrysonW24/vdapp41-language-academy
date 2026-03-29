@@ -1,30 +1,35 @@
-# vdapp33 — AI Engineer Academy
+# vdapp41 — Language Academy
 
-A premium, content-driven visual learning academy that teaches AI engineering from absolute beginner to production-ready. Same architecture as vdapp32 (Marketing Academy) — warm editorial theme, content-first JSON system, static generation.
+A unified language-learning app built on one shared Next.js codebase.
 
 ## What this is
 
-An interactive AI engineering education platform structured as a compressed degree + apprenticeship simulator. Covers fundamentals, ML, deep learning, LLMs, agents, MLOps, and production systems.
+This repo now serves multiple language tracks from one deploy:
 
-**Forked from:** vdapp32-marketing-academy (same shell, completely different content)
+- Spanish: `/es`
+- Chinese: `/zh`
+- German: `/de`
+- Thai: `/th`
 
-## Curriculum (20 Modules)
+The app uses one shared UI shell with language-specific curriculum loaded from:
 
-**Foundations:** What AI Engineering Is, Python for AI, Math Essentials, Data Fundamentals
-**Core Skills:** ML Fundamentals, Deep Learning, NLP, LLM Engineering, Computer Vision
-**Production:** Model Evaluation, MLOps, AI Agents, Vector DBs, AI Safety
-**Advanced:** System Design, Scaling Inference, Multi-modal, AI Products, Research-to-Production, AI Leadership
+- `content/curriculum/es`
+- `content/curriculum/zh`
+- `content/curriculum/de`
+- `content/curriculum/th`
 
-### 10 Projects
-Sentiment Analyser → Data Pipeline → Chatbot → RAG App → Image Classifier → Fine-tuning → AI Agent → ML Pipeline → Production API → Full AI Product
+## Current content status
 
-### 30 Tools
-PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenAI API, Claude API, LangChain, LlamaIndex, Pinecone, Weaviate, ChromaDB, MLflow, W&B, DVC, FastAPI, Docker, SageMaker, and more.
+- Spanish: 1000 words, 15 topics, 12 grammar rules, 8 phrase packs
+- Chinese: 420 words
+- German: 700 words
+- Thai: scaffold ready, content pending
 
 ## Development
 
 ```bash
 npm install
-npm run dev        # http://localhost:3000
-npm run build      # Static production build (88 pages)
+npm run dev
+npm run build
+npm run type-check
 ```

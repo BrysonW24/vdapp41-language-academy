@@ -1,0 +1,12 @@
+{
+  "rank": 123,
+  "german": "nehmen",
+  "english": "to take",
+  "pronunciation": "NAY-men",
+  "partOfSpeech": "verb",
+  "gender": "n/a",
+  "exampleDe": "Ich nehme den Bus.",
+  "exampleEn": "I take the bus.",
+  "group": "core-100",
+  "topic": "actions"
+}

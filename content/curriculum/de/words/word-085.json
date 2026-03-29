@@ -1,0 +1,12 @@
+{
+  "rank": 85,
+  "german": "müssen",
+  "english": "must, to have to",
+  "pronunciation": "MUE-sen",
+  "partOfSpeech": "verb",
+  "gender": "n/a",
+  "exampleDe": "Ich muss morgen arbeiten.",
+  "exampleEn": "I have to work tomorrow.",
+  "group": "core-100",
+  "topic": "actions"
+}

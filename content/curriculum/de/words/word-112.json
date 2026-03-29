@@ -1,0 +1,13 @@
+{
+  "rank": 112,
+  "german": "Tag",
+  "english": "day",
+  "pronunciation": "tahk",
+  "partOfSpeech": "noun",
+  "gender": "masculine",
+  "article": "der",
+  "exampleDe": "Guten Tag!",
+  "exampleEn": "Good day!",
+  "group": "core-100",
+  "topic": "greetings"
+}

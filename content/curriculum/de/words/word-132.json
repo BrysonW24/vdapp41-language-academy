@@ -1,0 +1,13 @@
+{
+  "rank": 132,
+  "german": "Stadt",
+  "english": "city, town",
+  "pronunciation": "shtat",
+  "partOfSpeech": "noun",
+  "gender": "feminine",
+  "article": "die",
+  "exampleDe": "Berlin ist eine große Stadt.",
+  "exampleEn": "Berlin is a big city.",
+  "group": "core-100",
+  "topic": "travel"
+}

@@ -1,0 +1,12 @@
+{
+  "rank": 2,
+  "german": "die",
+  "english": "the (feminine/plural)",
+  "pronunciation": "dee",
+  "partOfSpeech": "article",
+  "gender": "feminine",
+  "exampleDe": "Die Frau trinkt Kaffee.",
+  "exampleEn": "The woman drinks coffee.",
+  "group": "essential-50",
+  "topic": "basics"
+}

@@ -1,0 +1,12 @@
+{
+  "rank": 80,
+  "spanish": "tiempo",
+  "english": "time, weather",
+  "pronunciation": "TYEHM-poh",
+  "partOfSpeech": "noun",
+  "gender": "masculine",
+  "exampleEs": "No tengo mucho tiempo.",
+  "exampleEn": "I don't have much time.",
+  "group": "core-100",
+  "topic": "time"
+}

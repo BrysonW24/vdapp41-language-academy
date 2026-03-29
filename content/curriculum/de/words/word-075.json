@@ -1,0 +1,12 @@
+{
+  "rank": 75,
+  "german": "wo",
+  "english": "where",
+  "pronunciation": "voh",
+  "partOfSpeech": "adverb",
+  "gender": "n/a",
+  "exampleDe": "Wo ist der Bahnhof?",
+  "exampleEn": "Where is the train station?",
+  "group": "core-100",
+  "topic": "questions"
+}

@@ -1,0 +1,12 @@
+{
+  "rank": 101,
+  "german": "dort",
+  "english": "there",
+  "pronunciation": "dort",
+  "partOfSpeech": "adverb",
+  "gender": "n/a",
+  "exampleDe": "Das Restaurant ist dort drüben.",
+  "exampleEn": "The restaurant is over there.",
+  "group": "core-100",
+  "topic": "basics"
+}

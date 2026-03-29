@@ -1,0 +1,13 @@
+{
+  "rank": 98,
+  "german": "Menschen",
+  "english": "people, humans",
+  "pronunciation": "MEN-shen",
+  "partOfSpeech": "noun",
+  "gender": "masculine",
+  "article": "der",
+  "exampleDe": "Viele Menschen leben in der Stadt.",
+  "exampleEn": "Many people live in the city.",
+  "group": "core-100",
+  "topic": "people"
+}

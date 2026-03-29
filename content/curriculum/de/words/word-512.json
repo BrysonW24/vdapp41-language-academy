@@ -1,0 +1,13 @@
+{
+  "rank": 512,
+  "german": "Gehalt",
+  "english": "salary",
+  "pronunciation": "geh-HAHLT",
+  "partOfSpeech": "noun",
+  "gender": "neuter",
+  "article": "das",
+  "exampleDe": "Das Gehalt ist gut.",
+  "exampleEn": "The salary is good.",
+  "group": "confident-350",
+  "topic": "work"
+}

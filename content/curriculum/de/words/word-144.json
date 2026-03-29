@@ -1,0 +1,13 @@
+{
+  "rank": 144,
+  "german": "Frage",
+  "english": "question",
+  "pronunciation": "FRAH-guh",
+  "partOfSpeech": "noun",
+  "gender": "feminine",
+  "article": "die",
+  "exampleDe": "Ich habe eine Frage.",
+  "exampleEn": "I have a question.",
+  "group": "core-100",
+  "topic": "questions"
+}

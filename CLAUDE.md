@@ -1,32 +1,25 @@
-# CLAUDE.md — AI Engineer Academy
+# CLAUDE.md — Language Academy
 
 ## What this app is
 
-A premium visual AI engineering academy (vdapp33-ai-engineer-academy) that teaches AI/ML engineering from beginner to production-ready. Content-driven static site — no database, no auth, no backend. All content comes from structured JSON files at build time.
+A unified language academy built as a static, content-driven Next.js app.
 
-**Forked from:** vdapp32-marketing-academy. Same architecture, design system, and component library — completely different curriculum content.
-
-**Target user:** Someone starting from zero in AI engineering and progressing toward production-ready skills.
+It currently serves Spanish, Chinese, German, and Thai from one shared codebase using language-prefixed routes such as `/es`, `/zh`, `/de`, and `/th`.
 
 ## Architecture
 
-Same as vdapp32 — see that CLAUDE.md for full architecture docs. Key points:
-- Content in `content/curriculum/` as Zod-validated JSON
-- Loaders in `src/lib/content.ts`
-- Schemas in `src/types/curriculum.ts`
-- Warm editorial "paper and canvas" theme
-- Static generation via Next.js 15 App Router
+- Content lives in `content/curriculum/<lang>/`
+- Shared normalized loaders live in `src/lib/academy-content.ts`
+- Language registry lives in `src/lib/languages.ts`
+- Shared academy types live in `src/types/academy.ts`
+- App routes live under `src/app/[lang]/`
 
 ## Content conventions
 
-- Plain English, explain jargon when introduced
-- Australian English spelling and AUD salaries
-- Real-world examples (OpenAI, Google, Anthropic, Hugging Face, Netflix)
-- Each lesson follows: What → Why → How → Example → Mistakes → Exercise → Next
-- Module status: "complete" or "coming-soon"
+- Keep the UI shared and language-aware
+- Add new curriculum inside the correct language folder instead of cloning the app
+- Prefer reusable schemas and loaders over language-specific page implementations
 
 ## Git
 
-- Email: Bryson_work@hotmail.com
-- Conventional commits
-- Build must pass before pushing
+- Build and type-check should pass before pushing

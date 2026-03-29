@@ -1,0 +1,12 @@
+{
+  "rank": 86,
+  "german": "geben",
+  "english": "to give",
+  "pronunciation": "GAY-ben",
+  "partOfSpeech": "verb",
+  "gender": "n/a",
+  "exampleDe": "Kannst du mir das Salz geben?",
+  "exampleEn": "Can you give me the salt?",
+  "group": "core-100",
+  "topic": "actions"
+}

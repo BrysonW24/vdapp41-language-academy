@@ -1,0 +1,13 @@
+{
+  "rank": 147,
+  "german": "Morgen",
+  "english": "morning, tomorrow",
+  "pronunciation": "MOR-gen",
+  "partOfSpeech": "noun",
+  "gender": "masculine",
+  "article": "der",
+  "exampleDe": "Guten Morgen!",
+  "exampleEn": "Good morning!",
+  "group": "core-100",
+  "topic": "greetings"
+}

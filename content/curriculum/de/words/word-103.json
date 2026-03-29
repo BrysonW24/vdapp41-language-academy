@@ -1,0 +1,13 @@
+{
+  "rank": 103,
+  "german": "Land",
+  "english": "country, land",
+  "pronunciation": "lahnt",
+  "partOfSpeech": "noun",
+  "gender": "neuter",
+  "article": "das",
+  "exampleDe": "Deutschland ist ein schönes Land.",
+  "exampleEn": "Germany is a beautiful country.",
+  "group": "core-100",
+  "topic": "travel"
+}

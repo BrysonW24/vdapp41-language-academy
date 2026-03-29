@@ -1,0 +1,13 @@
+{
+  "rank": 150,
+  "german": "Straße",
+  "english": "street, road",
+  "pronunciation": "SHTRAH-suh",
+  "partOfSpeech": "noun",
+  "gender": "feminine",
+  "article": "die",
+  "exampleDe": "Die Straße ist sehr lang.",
+  "exampleEn": "The street is very long.",
+  "group": "core-100",
+  "topic": "travel"
+}

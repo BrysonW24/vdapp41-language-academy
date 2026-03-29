@@ -1,0 +1,13 @@
+{
+  "rank": 146,
+  "german": "Abend",
+  "english": "evening",
+  "pronunciation": "AH-bent",
+  "partOfSpeech": "noun",
+  "gender": "masculine",
+  "article": "der",
+  "exampleDe": "Guten Abend!",
+  "exampleEn": "Good evening!",
+  "group": "core-100",
+  "topic": "greetings"
+}

@@ -1,0 +1,13 @@
+{
+  "rank": 113,
+  "german": "Frau",
+  "english": "woman, Mrs.",
+  "pronunciation": "frow",
+  "partOfSpeech": "noun",
+  "gender": "feminine",
+  "article": "die",
+  "exampleDe": "Die Frau arbeitet im Büro.",
+  "exampleEn": "The woman works in the office.",
+  "group": "core-100",
+  "topic": "people"
+}

@@ -1,0 +1,13 @@
+{
+  "rank": 358,
+  "german": "Zug",
+  "english": "train",
+  "pronunciation": "TSOOK",
+  "partOfSpeech": "noun",
+  "gender": "masculine",
+  "article": "der",
+  "exampleDe": "Der Zug fährt nach München.",
+  "exampleEn": "The train goes to Munich.",
+  "group": "everyday-250",
+  "topic": "transport"
+}

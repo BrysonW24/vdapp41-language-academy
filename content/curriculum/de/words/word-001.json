@@ -1,0 +1,12 @@
+{
+  "rank": 1,
+  "german": "der",
+  "english": "the (masculine)",
+  "pronunciation": "dehr",
+  "partOfSpeech": "article",
+  "gender": "masculine",
+  "exampleDe": "Der Mann liest ein Buch.",
+  "exampleEn": "The man reads a book.",
+  "group": "essential-50",
+  "topic": "basics"
+}

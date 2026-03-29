@@ -1,0 +1,13 @@
+{
+  "rank": 117,
+  "german": "Wasser",
+  "english": "water",
+  "pronunciation": "VAH-ser",
+  "partOfSpeech": "noun",
+  "gender": "neuter",
+  "article": "das",
+  "exampleDe": "Kann ich ein Glas Wasser haben?",
+  "exampleEn": "Can I have a glass of water?",
+  "group": "core-100",
+  "topic": "food"
+}

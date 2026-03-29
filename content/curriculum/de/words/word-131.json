@@ -1,0 +1,13 @@
+{
+  "rank": 131,
+  "german": "Freund",
+  "english": "friend (male)",
+  "pronunciation": "froynt",
+  "partOfSpeech": "noun",
+  "gender": "masculine",
+  "article": "der",
+  "exampleDe": "Er ist mein bester Freund.",
+  "exampleEn": "He is my best friend.",
+  "group": "core-100",
+  "topic": "people"
+}

@@ -1,0 +1,13 @@
+{
+  "rank": 500,
+  "german": "Möbel",
+  "english": "furniture",
+  "pronunciation": "MER-bel",
+  "partOfSpeech": "noun",
+  "gender": "neuter",
+  "article": "das",
+  "exampleDe": "Wir brauchen neue Möbel.",
+  "exampleEn": "We need new furniture.",
+  "group": "confident-350",
+  "topic": "home"
+}

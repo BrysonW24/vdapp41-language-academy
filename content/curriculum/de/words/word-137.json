@@ -1,0 +1,13 @@
+{
+  "rank": 137,
+  "german": "Hand",
+  "english": "hand",
+  "pronunciation": "hahnt",
+  "partOfSpeech": "noun",
+  "gender": "feminine",
+  "article": "die",
+  "exampleDe": "Gib mir deine Hand.",
+  "exampleEn": "Give me your hand.",
+  "group": "core-100",
+  "topic": "health"
+}

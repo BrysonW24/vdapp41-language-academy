@@ -1,0 +1,12 @@
+{
+  "rank": 16,
+  "german": "dem",
+  "english": "the (masculine/neuter dative)",
+  "pronunciation": "dehm",
+  "partOfSpeech": "article",
+  "gender": "masculine",
+  "exampleDe": "Ich gebe dem Mann das Buch.",
+  "exampleEn": "I give the man the book.",
+  "group": "essential-50",
+  "topic": "basics"
+}

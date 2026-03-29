@@ -1,0 +1,13 @@
+{
+  "rank": 141,
+  "german": "Beispiel",
+  "english": "example",
+  "pronunciation": "BY-shpeel",
+  "partOfSpeech": "noun",
+  "gender": "neuter",
+  "article": "das",
+  "exampleDe": "Zum Beispiel gibt es hier viele Cafés.",
+  "exampleEn": "For example, there are many cafes here.",
+  "group": "core-100",
+  "topic": "basics"
+}

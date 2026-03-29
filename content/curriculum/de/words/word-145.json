@@ -1,0 +1,12 @@
+{
+  "rank": 145,
+  "german": "lesen",
+  "english": "to read",
+  "pronunciation": "LAY-zen",
+  "partOfSpeech": "verb",
+  "gender": "n/a",
+  "exampleDe": "Ich lese gerne Bücher.",
+  "exampleEn": "I like to read books.",
+  "group": "core-100",
+  "topic": "actions"
+}

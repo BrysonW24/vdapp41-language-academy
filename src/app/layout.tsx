@@ -5,11 +5,11 @@ import "@/styles/globals.css"
 
 export const metadata: Metadata = {
   title: {
-    default: "Spanish Academy",
-    template: "%s | Spanish Academy",
+    default: "Language Academy",
+    template: "%s | Language Academy",
   },
   description:
-    "Learn Spanish with 1,000 carefully chosen words. A visual, content-driven academy using the Pareto principle to get you conversational fast.",
+    "A unified language academy for Spanish, Chinese, German, and Thai with shared lessons, vocabulary ladders, and reusable curriculum structure.",
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

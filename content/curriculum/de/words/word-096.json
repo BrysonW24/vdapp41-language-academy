@@ -1,0 +1,13 @@
+{
+  "rank": 96,
+  "german": "Zeit",
+  "english": "time",
+  "pronunciation": "tsyte",
+  "partOfSpeech": "noun",
+  "gender": "feminine",
+  "article": "die",
+  "exampleDe": "Ich habe keine Zeit.",
+  "exampleEn": "I have no time.",
+  "group": "core-100",
+  "topic": "time"
+}

@@ -1,0 +1,12 @@
+{
+  "rank": 8,
+  "german": "das",
+  "english": "the (neuter)",
+  "pronunciation": "dahs",
+  "partOfSpeech": "article",
+  "gender": "neuter",
+  "exampleDe": "Das Kind spielt im Garten.",
+  "exampleEn": "The child plays in the garden.",
+  "group": "essential-50",
+  "topic": "basics"
+}

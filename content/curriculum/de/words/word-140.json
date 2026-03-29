@@ -1,0 +1,13 @@
+{
+  "rank": 140,
+  "german": "Buch",
+  "english": "book",
+  "pronunciation": "bookh",
+  "partOfSpeech": "noun",
+  "gender": "neuter",
+  "article": "das",
+  "exampleDe": "Ich lese ein gutes Buch.",
+  "exampleEn": "I am reading a good book.",
+  "group": "core-100",
+  "topic": "basics"
+}

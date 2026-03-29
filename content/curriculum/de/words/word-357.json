@@ -1,0 +1,13 @@
+{
+  "rank": 357,
+  "german": "Bus",
+  "english": "bus",
+  "pronunciation": "BOOS",
+  "partOfSpeech": "noun",
+  "gender": "masculine",
+  "article": "der",
+  "exampleDe": "Der Bus kommt alle zehn Minuten.",
+  "exampleEn": "The bus comes every ten minutes.",
+  "group": "everyday-250",
+  "topic": "transport"
+}

@@ -1,0 +1,13 @@
+{
+  "rank": 78,
+  "chinese": "第",
+  "characters": "第",
+  "pinyin": "dì",
+  "english": "ordinal number prefix",
+  "pronunciation": "dee (4th tone, falling)",
+  "partOfSpeech": "particle",
+  "exampleZh": "这是第一次。",
+  "exampleEn": "This is the first time.",
+  "group": "core-100",
+  "topic": "numbers"
+}

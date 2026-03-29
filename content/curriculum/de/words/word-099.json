@@ -1,0 +1,12 @@
+{
+  "rank": 99,
+  "german": "groß",
+  "english": "big, tall, great",
+  "pronunciation": "grohs",
+  "partOfSpeech": "adjective",
+  "gender": "n/a",
+  "exampleDe": "Das Haus ist sehr groß.",
+  "exampleEn": "The house is very big.",
+  "group": "core-100",
+  "topic": "descriptions"
+}

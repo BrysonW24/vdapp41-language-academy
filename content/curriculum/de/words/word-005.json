@@ -1,0 +1,12 @@
+{
+  "rank": 5,
+  "german": "den",
+  "english": "the (masculine accusative)",
+  "pronunciation": "dehn",
+  "partOfSpeech": "article",
+  "gender": "masculine",
+  "exampleDe": "Ich sehe den Hund.",
+  "exampleEn": "I see the dog.",
+  "group": "essential-50",
+  "topic": "basics"
+}

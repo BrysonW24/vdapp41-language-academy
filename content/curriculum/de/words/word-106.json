@@ -1,0 +1,13 @@
+{
+  "rank": 106,
+  "german": "Welt",
+  "english": "world",
+  "pronunciation": "velt",
+  "partOfSpeech": "noun",
+  "gender": "feminine",
+  "article": "die",
+  "exampleDe": "Die Welt ist wunderbar.",
+  "exampleEn": "The world is wonderful.",
+  "group": "core-100",
+  "topic": "basics"
+}

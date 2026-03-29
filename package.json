@@ -1,8 +1,8 @@
 {
-  "name": "vdapp41-spanish-academy",
+  "name": "vdapp41-language-academy",
   "version": "1.0.0",
   "private": true,
-  "description": "Premium visual Spanish language academy — from zero to fluent",
+  "description": "Unified language academy for Spanish, Chinese, German, and Thai",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

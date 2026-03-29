@@ -1,0 +1,13 @@
+{
+  "rank": 200,
+  "german": "Milch",
+  "english": "milk",
+  "pronunciation": "MILKH",
+  "partOfSpeech": "noun",
+  "gender": "feminine",
+  "article": "die",
+  "exampleDe": "Ich trinke jeden Morgen Milch.",
+  "exampleEn": "I drink milk every morning.",
+  "group": "everyday-250",
+  "topic": "food-drink"
+}

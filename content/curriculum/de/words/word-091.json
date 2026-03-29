@@ -1,0 +1,12 @@
+{
+  "rank": 91,
+  "german": "finden",
+  "english": "to find",
+  "pronunciation": "FIN-den",
+  "partOfSpeech": "verb",
+  "gender": "n/a",
+  "exampleDe": "Ich finde meinen Schlüssel nicht.",
+  "exampleEn": "I can't find my key.",
+  "group": "core-100",
+  "topic": "actions"
+}

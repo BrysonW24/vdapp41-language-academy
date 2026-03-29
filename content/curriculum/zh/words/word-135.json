@@ -1,0 +1,13 @@
+{
+  "rank": 135,
+  "chinese": "因为",
+  "characters": "因为",
+  "pinyin": "yīnwèi",
+  "english": "because",
+  "pronunciation": "een-way (1st tone, 4th tone)",
+  "partOfSpeech": "conjunction",
+  "exampleZh": "因为下雨，我没去。",
+  "exampleEn": "Because it rained, I didn't go.",
+  "group": "core-100",
+  "topic": "grammar"
+}

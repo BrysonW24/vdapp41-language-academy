@@ -1,0 +1,13 @@
+{
+  "rank": 114,
+  "german": "Mann",
+  "english": "man, husband",
+  "pronunciation": "mahn",
+  "partOfSpeech": "noun",
+  "gender": "masculine",
+  "article": "der",
+  "exampleDe": "Der Mann kocht das Abendessen.",
+  "exampleEn": "The man cooks dinner.",
+  "group": "core-100",
+  "topic": "people"
+}

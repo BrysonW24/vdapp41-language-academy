@@ -1,0 +1,13 @@
+{
+  "rank": 63,
+  "chinese": "三",
+  "characters": "三",
+  "pinyin": "sān",
+  "english": "three",
+  "pronunciation": "sahn (1st tone, high flat)",
+  "partOfSpeech": "number",
+  "exampleZh": "我有三本书。",
+  "exampleEn": "I have three books.",
+  "group": "core-100",
+  "topic": "numbers"
+}
